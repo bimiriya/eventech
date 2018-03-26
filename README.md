@@ -154,8 +154,7 @@ The project was developed with the following dependencies
 * **Valentina**
 
 ### Front End Developers
-* **Viviana Marcelo** - [skyblue16](https://github.com/skyblue16)
-* **Valeria** - [vpsa23](https://github.com/vpsa23)
+
 * **Almendra Oyarzún** - [bimiriya](https://github.com/bimiriya)
 
 
